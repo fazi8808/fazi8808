@@ -40,8 +40,6 @@ I'm a Front-End Engineer with a knack for full-stack development and a passion f
 ![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?&logo=strapi)
 ![Bubble](https://img.shields.io/badge/-Bubble.io-1C1C1C?&logo=bubble)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fazi8808&layout=compact&theme=radical)
-
 ---
 
 ### 📫 Get in Touch
